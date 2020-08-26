@@ -1,2 +1,2 @@
 # Solid-Cursos
-https://github.com/matheusoliveira3/Solid-Cursos.git
+https://matheusoliveira3.github.io/Solid-Cursos/
