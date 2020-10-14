@@ -24,21 +24,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Cadastro",
-      "description": "Atalho para cadastro do site",
-      "url": "/en",
-    }
-
-    {
-      "name": "Login",
-      "description": "Atalho para login do site",
-      "url": "/en",
-    }
-
-    {
-      "name": "Sobre Nós",
-      "description": "Atalho para sobre nós do site",
-      "url": "/en",
+      "name": "Início",
+      "description": "Atalho para início do site",
+      "url": "/",
     }
   ]
 }
